@@ -35,3 +35,12 @@ Enhanced_Network_Scanner/
 ├── requirements.txt          # Optional dependencies list
 ├── output.csv                # Sample scan output
 └── README.md                 # Project documentation
+
+
+---
+
+## 🧩 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/Enhanced_Network_Scanner.git
+
